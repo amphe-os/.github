@@ -1,4 +1,3 @@
 # What is Amphe?
 
-Amphe is an open-source operating system that is based on ubuntu
-
+AmpheOS (and anything else under the Amphe umbrella) is not ready for the public yet, follow @ampheOS on twitter for updates
