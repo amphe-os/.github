@@ -1,3 +1,3 @@
-# What is Amphe?
+As of 15/12/2023, amphe and related projects will cease operations. 
 
-AmpheOS (and anything else under the Amphe umbrella) is not ready for the public yet, follow @AmpheOS on twitter for updates
+Please see our [tweet](https://twitter.com/ampheOS/status/1735761294668579010) for more infomation
